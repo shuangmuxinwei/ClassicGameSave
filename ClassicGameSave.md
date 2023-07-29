@@ -56,4 +56,6 @@ TIPTOP DELUXE v1.1　name: popcap code: A9P44-6UYQH-ZNAV6-AXDNT
 
 ## 宝石迷阵
 
-[Popcap Games Pack下载地址](https://pan.baidu.com/s/19lqnffnBpTtQSbHPfOrE9Q&pwd=p53k)
+[宝石迷阵系列最全资源合集网址来源](https://tieba.baidu.com/p/6860181397)
+
+[宝石迷阵系列最全资源合集下载地址](https://pan.baidu.com/s/19lqnffnBpTtQSbHPfOrE9Q&pwd=p53k)
