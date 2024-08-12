@@ -1,6 +1,6 @@
 *    name: ClassicGameSave.md
 *    date: 12 August 2024
-*    url: https://github.com/shuangmuxinwei/ClassicGameSave
+*    url: https://github.com/shuangmuxinwei/ClassicGameSave/raw/main/ClassicGameSave.md
 
 * 免责声明：
 * 本文档旨在汇总部分常见的经典游戏（主要是小游戏、老游戏）的下载地址。
