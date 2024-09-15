@@ -1,8 +1,8 @@
 /******
 
 *    name: ClassicGameSave.md
-*    date: 12 August 2024
-*    url: https://github.com/shuangmuxinwei/ClassicGameSave/raw/main/ClassicGameSave.md
+*    date: 15 September 2024
+*    url: https://github.com/shuangmuxinwei/ClassicGameSave/blob/main/ClassicGameSave.md
 
 * 免责声明：
 * 本文档旨在汇总部分常见的经典游戏（主要是小游戏、老游戏）的下载地址。
@@ -19,13 +19,19 @@
 
 # Windows平台游戏
 
-##  flash游戏
+## flash游戏
 
-###  flash独立播放器
+### flash游戏相关网站
 
-###  皇家守卫军
+[oldswf - 无需安装flash游戏即可游玩的小游戏站点](https://oldswf.com/)
 
-##  宝开公司游戏
+[Flash保存计划](https://flash.homes/)
+
+### flash独立播放器
+
+### 皇家守卫军
+
+## 宝开公司游戏
 
 ### 植物大战僵尸及改版、同人版
 
@@ -99,7 +105,7 @@
 
 [植物大战僵尸Beautiful Town版（BT版）/Beautiful World版（BW版）/Legend版（LG体验版）作者 宅宅萝卜](https://space.bilibili.com/38078309)
 
-[植物大战僵尸Beautiful Town版（BT版）下载地址 原文出处](https://www.bilibili.com/video/BV1wA4m1F7Qk/)
+[植物大战僵尸Beautiful Town版（BT版）下载地址 原文出处](https://www.bilibili.com/opus/906445314452357137)
 
 [植物大战僵尸Legend版（LG体验版）2.00下载地址 原文出处](https://www.bilibili.com/opus/961427033362006096)
 
@@ -131,7 +137,7 @@
 
 [植物大战僵尸杂交版作者 潜艇伟伟迷](https://space.bilibili.com/97213827)
 
-[植物大战僵尸杂交版下载地址 原文出处](https://www.bilibili.com/opus/959435336763572226)
+[植物大战僵尸杂交版下载地址 原文出处](https://www.bilibili.com/opus/973646653403693077)
 
 #### 植物大战僵尸融合版
 
@@ -185,6 +191,14 @@
 
 [植物大战僵尸肉鸽版下载地址 原文出处](https://www.bilibili.com/video/BV1cM4m16772)
 
+#### 植物大战僵尸3D版
+
+[植物大战僵尸3D版作者 一只碧某人](https://space.bilibili.com/86565098)
+
+[植物大战僵尸3D版 下载地址](https://pan.baidu.com/s/1hXzIkt_T82nl0zSwmIa3sw?pwd=9fal)
+
+[植物大战僵尸3D版下载地址 原文出处](https://mp.weixin.qq.com/s/QdbfdwuXhWJPOCgSFpS7AQ)
+
 #### 植物大战僵尸写实3d版
 
 [植物大战僵尸写实3d版作者 莫风heihei](https://space.bilibili.com/359184400)
@@ -235,13 +249,51 @@
 
 [植物大战僵尸幼儿园版作者 菊长大人](https://space.bilibili.com/345047054)
 
-截至2024年08月07日，作者尚未发布下载地址。后续信息，请关注作者B站动态。
+[植物大战僵尸幼儿园版 下载地址](https://pan.quark.cn/s/cfa0f179d4a5)
+
+[植物大战僵尸幼儿园版安卓手机TV触控版 下载地址](https://pan.quark.cn/s/5fecfdc7c995)
+
+[植物大战僵尸幼儿园版安卓手机TV仿95版触控版 下载地址](https://pan.quark.cn/s/fe2dfe7e907b)
+
+[植物大战僵尸幼儿园版下载地址 原文出处](https://www.bilibili.com/opus/965914093077659656)
 
 #### 植物大战僵尸生态版
 
 [植物大战僵尸生态版作者 无脸的程序](https://space.bilibili.com/1230432752)
 
-截至2024年08月07日，作者尚未发布下载地址。后续信息，请关注作者B站动态。
+[植物大战僵尸生态版 下载地址](https://pan.quark.cn/s/2a7143ac4ab7)
+
+[植物大战僵尸生态版下载地址 原文出处](https://www.bilibili.com/opus/971414168090443813)
+
+[植物大战僵尸转基因版下载地址 原文出处](https://www.pvz.moe/resources/717)
+
+#### 植物大战僵尸转基因版
+
+[植物大战僵尸转基因版作者 南竹0v0](https://space.bilibili.com/2096555998)
+
+[植物大战僵尸转基因版 下载地址](https://www.123pan.com/s/kbmuVv-wPEsd.html)
+
+[植物大战僵尸转基因版下载地址 原文出处](https://www.bilibili.com/opus/963361486655193105)
+
+#### 植物大战僵尸中国馆
+
+[植物大战僵尸中国馆作者 蒲公英の心吹到天涯](https://space.bilibili.com/2096555998)
+
+[植物大战僵尸中国馆下载地址 原文出处](https://www.bilibili.com/video/BV1NH4y1f7z7)
+
+截至2024年09月15日，作者并未在bilibili发布下载地址，只在Q群发布下载地址，请自行加群获取。
+
+#### 植物大战僵尸龙珠版/宝可梦进化版
+
+[植物大战僵尸龙珠版/宝可梦进化版作者 一拳S7](https://space.bilibili.com/264779590)
+
+[植物大战僵尸龙珠版 下载地址](https://pan.quark.cn/s/bdd9c06c8cec)
+
+[植物大战僵尸龙珠版下载地址 原文出处](https://www.bilibili.com/video/BV1ZvHKefE6o/)
+
+[植物大战僵尸宝可梦进化版 下载地址](https://pan.quark.cn/s/f5baa5ac3196)
+
+[植物大战僵尸宝可梦进化版下载地址 原文出处](https://www.bilibili.com/video/BV1i5tMeCEeu/)
 
 ### 宝石迷阵
 
@@ -275,4 +327,8 @@ TIPTOP DELUXE v1.1　name: popcap code: A9P44-6UYQH-ZNAV6-AXDNT
 
 # Android平台游戏
 
-[合集](https://space.bilibili.com/17422736)
+[安卓游戏合集修改版作者 阳光的酥皮](https://space.bilibili.com/17422736)
+
+[安卓游戏合集](https://docs.qq.com/doc/DSWlWd2ZFS0ZHYUR5)
+
+[安卓游戏合集 原文出处](https://www.bilibili.com/opus/798876780744146978)
